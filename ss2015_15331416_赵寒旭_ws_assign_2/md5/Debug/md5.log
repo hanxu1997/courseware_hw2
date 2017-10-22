@@ -1,0 +1,9 @@
+﻿  mddriver.cpp
+d:\github\courseware_hw2\md5\mddriver.cpp(155): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“time_t”
+  d:\github\courseware_hw2\md5\mddriver.cpp(155): note: 请考虑在格式字符串中使用“%lld”
+  d:\github\courseware_hw2\md5\mddriver.cpp(155): note: 请考虑在格式字符串中使用“%I64d”
+d:\github\courseware_hw2\md5\mddriver.cpp(184): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+  md5.cpp
+  正在生成代码...
+  md5.vcxproj -> D:\github\courseware_hw2\md5\Debug\md5.exe
